@@ -36,10 +36,10 @@ Breakout is a classic arcade game where the player controls a paddle to bounce a
 
 ## Screenshots
 
-![Score and Lives](Screenshots/breakout1.png)  
+![Score and Lives](screenshots/breakout1.png)  
 *Score and lives visible during gameplay*
 
-![Game Over / Win](Screenshots/breakout2.png)  
+![Game Over / Win](screenshots/breakout2.png)  
 *Game Over or Win state*
 
 ---
